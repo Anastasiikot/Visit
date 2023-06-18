@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Business Card</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .card {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+    .card h1 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .card p {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+    .card .contact {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Anastasia Gryshko</h1>
+    <p>Ukrainian Entrepreneur</p>
+    <p>Developer of Soft Skills Management Methodology</p>
+    <p>Consultant for Organic Management Systems</p>
+    <p>Projects:</p>
+    <p>oxygensystem.info</p>
+    <p>https://alfa-vit.org</p>
+    <div class="contact">
+      <p>Tel: +34722492740</p>
+      <p>Linkedin: <a href="https://www.linkedin.com/in/anastasia-gryshko">www.linkedin.com/in/anastasia-gryshko</a></p>
+      <p>Email: <a href="mailto:anastasia.gryshko@oxygensystem.info">anastasia.gryshko@oxygensystem.info</a></p>
+    </div>
+    <p>I can also provide valuable assistance to individuals seeking to understand Ukrainian culture and foster business development in Ukraine or collaboration with companies.</p>
+  </div>
+</body>
+</html>
+
